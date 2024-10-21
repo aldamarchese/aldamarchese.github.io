@@ -21,13 +21,13 @@ repository               : "aldamarchese/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "AldaMarchese.jpg"
   name             : "Alda Marchese"
   pronouns         : # example: "she/her"  
   bio              : "3rd year PhD candidate"
   location         : "Lugano, CH"
   employer         : "USI Lugano"
-  uri              : # URL
+  uri              : https://idep.usi.ch
   email            : "alda.marchese@usi.ch" 
 
   # Academic websites
