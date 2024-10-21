@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "3rd year PhD candidate"
   location         : "Lugano, CH"
-  employer         : "USI Lugano"
-  uri              : https://idep.usi.ch
+  employer: [USI Lugano](https://idep.usi.ch)
+  uri              : 
   email            : "alda.marchese@usi.ch" 
 
   # Academic websites
