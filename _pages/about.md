@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 <br>
+<div style="text-align: justify;">
 I am a PhD candidate in Economics at [Università della Svizzera italiana](https://idep.usi.ch).
 <br><br>
 
