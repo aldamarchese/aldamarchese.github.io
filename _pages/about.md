@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD candidate in Economics at [Università della Svizzera italiana](https://idep.usi.ch).
 <br><br>
 
-I completed the [Swiss Program for Beginning Doctoral Students in Economics](https://szgerzensee.ch), hosted by the Swiss National Bank, and before starting my PhD I was a pre-doc at [AXA Research Lab on Gender Equality](https://genderlab.unibocconi.eu) under the supervision of Prof. [Paola Profeta](https://sites.google.com/view/paola-profeta).
+I completed the [Swiss Program for Beginning Doctoral Students in Economics](https://szgerzensee.ch), hosted by the Swiss National Bank. Before starting my PhD I was a pre-doc at [AXA Research Lab on Gender Equality](https://genderlab.unibocconi.eu) under the supervision of Prof. [Paola Profeta](https://sites.google.com/view/paola-profeta).
 <br>
 I hold a M.Sc. in European and International Public Policy from [the London School of Economics and Political Science](https://www.lse.ac.uk) and a M.Sc. in Politics and Policy Analysis from [Bocconi University](https://www.unibocconi.it/en).
 <br><br>
