@@ -21,7 +21,7 @@ repository               : "aldamarchese/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : <img src="/images/AldaMarchese.jpg alt="drawing" style="float: left; padding-right:15px"/> 
+  avatar           : /images/AldaMarchese.jpg
   name             : "Alda Marchese"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate"
