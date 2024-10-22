@@ -80,8 +80,6 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -90,8 +88,10 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 0%;
+    max-width: 100%; /* Ensures the image doesn't exceed the container width */
+    height: auto; /* Maintains the original aspect ratio */
+    // Remove border-radius for a rectangular shape
+    // border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -99,6 +99,7 @@
     }
   }
 }
+
 
 .author__content {
   display: table-cell;
