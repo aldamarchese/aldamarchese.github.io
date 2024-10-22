@@ -16,7 +16,7 @@ I completed the [Swiss Program for Beginning Doctoral Students in Economics](htt
 
 My research is in the field of gender economics, with a particular interest on political economy, labor economics and economics of education.  
 <br><br>
-
+</div>
 **CONTACT INFORMATION** <br>
 Università della Svizzera italiana <br>
 West Campus, Blue Building <br>
