@@ -21,6 +21,5 @@ My research is in the field of gender economics, with a particular interest on p
 **CONTACT INFORMATION** <br>
 Università della Svizzera italiana <br>
 West Campus, Blue Building <br>
-Via Buffi 6 <br> 
-6900 Lugano, Switzerland<br> 
+Via Buffi 6, 6900 Lugano, Switzerland<br> 
 Mail: [alda.marchese@usi.ch](alda.marchese@usi.ch)
