@@ -24,11 +24,11 @@ author:
   avatar           : "AldaMarchese.jpg"
   name             : "Alda Marchese"
   pronouns         : # example: "she/her"  
-  bio              : "3rd year PhD candidate"
+  bio              : "PhD candidate"
   location         : "Lugano, CH"
   employer         : "https://idep.usi.ch"
   uri              : 
-  email            : "alda.marchese@usi.ch" 
+  email            : [alda.marchese@usi.ch](alda.marchese@usi.ch)
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
