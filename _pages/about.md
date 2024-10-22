@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/AldaMarchese.jpg" alt="drawing" width="390" height="300" style="float: left; padding-right:15px"/>  
 
 I am a PhD candidate in Economics at [Università della Svizzera italiana](https://idep.usi.ch) and I completed the [Swiss Program for Beginning Doctoral Students in Economics](https://szgerzensee.ch), hosted by the Swiss National Bank. I hold a M.Sc. in European and International Public Policy from [the London School of Economics and Political Science](https://www.lse.ac.uk) and a M.Sc. in Politics and Policy Analysis from [Bocconi University](https://www.unibocconi.it/en).
 
