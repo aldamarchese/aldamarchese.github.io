@@ -7,7 +7,7 @@ redirect_from:
 ---
 ## Working papers
 
-  [**Who Cares About Childcare? Covid-19 and Substantive Gender Representation**](https://www.dropbox.com/scl/fi/nju96trouq2uu2hrer784/Marchese_Profeta_Savio_childcare.pdf?rlkey=2muw8sa2lvo3fbdqugghn5eli&dl=0) (https://www.dropbox.com/scl/fi/tahti6l1707s385hgd6ob/Roussille_Scuderi_021224.pdf?rlkey=qz19yt4nb27v3unlgns2od3e2&raw=1) (with [Paola Profeta] (https://sites.google.com/view/paola-profeta) and [Giulia Savio](https://sites.google.com/view/giuliasavioswebpage/home?authuser=0))  <br/>
+  [**Who Cares About Childcare? Covid-19 and Substantive Gender Representation**](https://www.dropbox.com/scl/fi/nju96trouq2uu2hrer784/Marchese_Profeta_Savio_childcare.pdf?rlkey=2muw8sa2lvo3fbdqugghn5eli&dl=0) (with [Paola Profeta](https://sites.google.com/view/paola-profeta) and [Giulia Savio](https://sites.google.com/view/giuliasavioswebpage/home?authuser=0))  <br/>
   _Submitted_
   <details>
   <summary>Click to view abstract</summary>
@@ -16,7 +16,7 @@ redirect_from:
  
 ## Work in Progress
 
-**Women and Mandatory Military Service.** 
+**Women and Mandatory Military Service** 
 
 **Self Confidence of Job Market Candidates in Economics: is there a gender gap and does the gender of the supervisor matter?**  (with [Patricia Funk](https://sites.google.com/site/patriciafelicitasfunk/patricia-funks-research-webpage)) <br/>
 
