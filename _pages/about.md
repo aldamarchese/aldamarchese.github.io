@@ -15,5 +15,5 @@ I completed the [Swiss Program for Beginning Doctoral Students in Economics](htt
 I hold a M.Sc. in European and International Public Policy from [the London School of Economics and Political Science](https://www.lse.ac.uk) and a M.Sc. in Politics and Policy Analysis from [Bocconi University](https://www.unibocconi.it/en).
 <br><br>
 
-My research is in the field of gender economics, with a particular interest political economy, labor economics and economics of education.  <br>
+My research is in the field of gender economics, with a particular interest on political economy, labor economics and economics of education.  <br>
 <br>
