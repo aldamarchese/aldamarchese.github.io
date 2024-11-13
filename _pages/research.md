@@ -9,7 +9,7 @@ redirect_from:
 ## Working papers
 
   [**Who Cares About Childcare? Covid-19 and Substantive Gender Representation**](https://www.dropbox.com/scl/fi/nju96trouq2uu2hrer784/Marchese_Profeta_Savio_childcare.pdf?rlkey=2muw8sa2lvo3fbdqugghn5eli&dl=0) (with [Paola Profeta](https://sites.google.com/view/paola-profeta) and [Giulia Savio](https://sites.google.com/view/giuliasavioswebpage/home?authuser=0))  <br/>
-  _Submitted_
+  _R&R_
   <details>
   <summary>Click to view abstract</summary>
  Using the Covid-19 pandemic as a natural experiment, we examine gender differences in public funds allocation to childcare in Italy, one of the first countries severely hit by the crisis. We analyze close mixed-gender races in Italian local elections in small municipalities without gender quotas from 2016 to 2023. Our findings show that pre Covid-19 female mayors spent more on childcare than male mayors. However, during the pandemic, the gender gap closed, as male mayors increased spending, a trend that continued post-pandemic. Results are consistent with a change in salience of childcare.
