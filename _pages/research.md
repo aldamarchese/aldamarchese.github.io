@@ -13,7 +13,7 @@ redirect_from:
   <details>
   <summary>Click to view abstract</summary>
  The Covid-19 pandemic increased the salience of childcare and focused attention on the allocation of public funds for it. Focusing on Italy, one of the first countries severely impacted by the Covid-19 crisis, we analyze how male and female politicians responded to the Covid-19 pandemic in the allocation of funds to childcare. To assess causality, we analyze close mixed-gender races in Italian local elections in small municipalities without gender quotas from 2016 to 2023. Our findings show that pre Covid-19 female mayors spent more on childcare than male mayors. However, during the pandemic, the gender gap closed, as male mayors increased spending, a trend that continued in the post pandemic period.
-  </details> <br/>
+  </details> 
  
 ## Work in Progress
 Regressive Gender Norms and Social Pressure NOT to Turn Out: Evidence From Switzerland  (with [Felix Schönenberger](https://sites.google.com/view/felix-schoenenberger/home?authuser=0)) <br/>
