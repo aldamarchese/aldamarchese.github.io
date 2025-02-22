@@ -9,7 +9,7 @@ redirect_from:
 ## Publications
 
   [**Who Cares About Childcare? Covid-19 and Gender Differences in Local Public Spending**](https://www.dropbox.com/scl/fi/3wgo6p8nz7fh3dbdpx8bu/Marchese_Profeta_Savio_childcare.pdf?rlkey=p1i9u543se4i06s2ajyp87t1x&dl=0) (with [Paola Profeta](https://sites.google.com/view/paola-profeta) and [Giulia Savio](https://sites.google.com/view/giuliasavioswebpage/home?authuser=0))  <br/>
-  <small>Accepted at _International Tax and Public Finance_<small>
+  <small> Accepted at _International Tax and Public Finance_ <small>
   <details>
   <summary>Click to view abstract</summary>
  The Covid-19 pandemic increased the salience of childcare and focused attention on the allocation of public funds for it. Focusing on Italy, one of the first countries severely impacted by the Covid-19 crisis, we analyze how male and female politicians responded to the Covid-19 pandemic in the allocation of funds to childcare. To assess causality, we analyze close mixed-gender races in Italian local elections in small municipalities without gender quotas from 2016 to 2023. Our findings show that pre Covid-19 female mayors spent more on childcare than male mayors. However, during the pandemic, the gender gap closed, as male mayors increased spending, a trend that continued in the post pandemic period.
