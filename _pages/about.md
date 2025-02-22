@@ -19,6 +19,7 @@ My research is in the field of gender economics, with a particular interest in p
 <br><br>
 </div>
 
+<div style="text-align: justify; font-size: 0.95em;">
 **CONTACT INFORMATION** <br>
 Università della Svizzera italiana <br>
 West Campus, Blue Building <br>
