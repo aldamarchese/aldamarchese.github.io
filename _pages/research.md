@@ -28,5 +28,5 @@ Regressive Gender Norms and Social Pressure NOT to Turn Out: Evidence From Switz
   </details> <br/>
 
 Gender Gaps and The Rise of The Service Economy: Evidence From Tourism Expansion in Italy (with [Giuseppe Di Giacomo](https://sites.google.com/view/giuseppedigiacomo/home) and [Giovanni Pica](https://sites.google.com/site/giovannipicashomepage/home) <br/>
-<small>[**Awarded with the VisitINPS Fellowship 2024**]<small>
+<small> **Awarded with the VisitINPS Fellowship 2024** <small>
  
