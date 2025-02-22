@@ -8,8 +8,8 @@ redirect_from:
 ---
 ## Università della Svizzera italiana
 
-TA - [Public Economics A](https://search.usi.ch/courses/35270569/public-economics-a), Bachelor - 2023/2024; 2024/2025 <br/>
-TA - [Public Economics B](https://search.usi.ch/it/corsi/35270506/economia-pubblica-b), Bachelor - 2023/2024; 2024/2025
+TA - [Public Economics A](https://search.usi.ch/courses/35270569/public-economics-a), Bachelor - 23/24; 24/25 <br/>
+TA - [Public Economics B](https://search.usi.ch/it/corsi/35270506/economia-pubblica-b), Bachelor - 23/24; 24/25
 <br/><br/>
  
 ## Bocconi University
