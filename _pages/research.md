@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Publications
 
-  [**Who Cares About Childcare? Covid-19 and Substantive Gender Representation**](https://www.dropbox.com/scl/fi/3wgo6p8nz7fh3dbdpx8bu/Marchese_Profeta_Savio_childcare.pdf?rlkey=p1i9u543se4i06s2ajyp87t1x&dl=0) (with [Paola Profeta](https://sites.google.com/view/paola-profeta) and [Giulia Savio](https://sites.google.com/view/giuliasavioswebpage/home?authuser=0))  <br/>
+  [**Who Cares About Childcare? Covid-19 and Gender Differences in Local Public Spending**](https://www.dropbox.com/scl/fi/3wgo6p8nz7fh3dbdpx8bu/Marchese_Profeta_Savio_childcare.pdf?rlkey=p1i9u543se4i06s2ajyp87t1x&dl=0) (with [Paola Profeta](https://sites.google.com/view/paola-profeta) and [Giulia Savio](https://sites.google.com/view/giuliasavioswebpage/home?authuser=0))  <br/>
   Accepted at _International Tax and Public Finance_
   <details>
   <summary>Click to view abstract</summary>
