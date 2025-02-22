@@ -8,7 +8,7 @@ redirect_from:
 ---
 <br>
 
-<div style="text-align: justify;">
+<div style="text-align: justify; font-size: 0.9em;">
 I am a PhD candidate in Economics at <a href="https://idep.usi.ch">Università della Svizzera italiana</a> under the supervision of Prof.  <a href="https://sites.google.com/site/patriciafelicitasfunk/">Patricia Funk</a>.
 <br><br>
 
@@ -24,3 +24,4 @@ Università della Svizzera italiana <br>
 West Campus, Blue Building <br>
 Via Buffi 6, 6900 Lugano, Switzerland<br> 
 Mail: <a href="mailto:alda.marchese@usi.ch">alda.marchese@usi.ch</a>
+
