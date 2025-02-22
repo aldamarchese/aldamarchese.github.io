@@ -26,5 +26,5 @@ Women and Mandatory Military Service <br/>
 
 Self Confidence of Job Market Candidates in Economics: is there a gender gap and does the gender of the supervisor matter?  (with [Patricia Funk](https://sites.google.com/site/patriciafelicitasfunk/patricia-funks-research-webpage)) <br/>
 
-Gender Gaps and The Rise of The Service Economy: Evidence From Tourism Expansion in Italy (with [Giuseppe Di Giacomo](https://sites.google.com/view/giuseppedigiacomo/home) and [Giovanni Pica](https://sites.google.com/site/giovannipicashomepage/home) <small> **Awarded with the VisitINPS Fellowship 2024** <small>
+Gender Gaps and The Rise of The Service Economy: Evidence From Tourism Expansion in Italy (with [Giuseppe Di Giacomo](https://sites.google.com/view/giuseppedigiacomo/home) and [Giovanni Pica](https://sites.google.com/site/giovannipicashomepage/home)) - <small> **Awarded with the VisitINPS Fellowship 2024** <small>
  
