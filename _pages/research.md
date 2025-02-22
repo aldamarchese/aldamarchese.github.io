@@ -20,7 +20,7 @@ Regressive Gender Norms and Social Pressure NOT to Turn Out: Evidence From Switz
  <details>
   <summary>Click to view abstract</summary>
  We assemble an original dataset that matches historical post-electoral survey data in Switzerland with a fine-grained and direct measure for regressive gender norms of political participation: municipality-level "no" vote shares in the 1971 referendum, where Swiss men granted voting rights to Swiss women. We document a significant gender gap in turnout, which is larger in municipalities with more regressive gender norms but closes over time. To disentangle the effect of external social pressure from internalized social norms, we exploit the staggered introduction of postal voting in Swiss cantons as a natural experiment, which provides for the possibility to participate in elections while keeping the act of voting unobserved and thus escaping social sanctions. Using a triple-difference design that compares male and female voters in gender-progressive and gender-regressive municipalities before and after the introduction of postal voting, we isolate the impact of external social pressure on women to abstain from voting. Our results speak to an emergent literature on the causes and consequences of unequal participation, providing the first empirical test if social pressure can decrease voter turnout among politically marginalized groups.
-  </details> <br/>
+  </details> 
   
 Women and Mandatory Military Service <br/>
 
