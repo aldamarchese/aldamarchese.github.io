@@ -14,4 +14,4 @@ TA - [Public Economics B](https://search.usi.ch/it/corsi/35270506/economia-pubbl
  
 ## Bocconi University
 
-TA - [Public Finance](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30264&anno=2022&ric_cdl=TR01&IdPag=), Bachelor - 2021/2022
+TA - [Public Finance](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30264&anno=2022&ric_cdl=TR01&IdPag=), Bachelor - 21/22
