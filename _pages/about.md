@@ -14,7 +14,7 @@ I am a PhD candidate in Economics at <a href="https://idep.usi.ch">Università d
 I completed the <a href="https://szgerzensee.ch">Swiss Program for Beginning Doctoral Students in Economics</a>, hosted by the Swiss National Bank. Before starting my PhD I was a pre-doc at <a href="https://genderlab.unibocconi.eu">AXA Research Lab on Gender Equality</a> under the supervision of Prof. <a href="https://sites.google.com/view/paola-profeta">Paola Profeta</a>. I hold a M.Sc. in European and International Public Policy from <a href="https://www.lse.ac.uk">the London School of Economics and Political Science</a> and a M.Sc. in Politics and Policy Analysis from <a href="https://www.unibocconi.it/en">Bocconi University</a>.
 <br><br>
 
-From August 2025 unitl January 2026 I will be visiting UCLA Anderson School of Management hosted by Prof. <a href="http://ricardotruglia.bol.ucla.edu">Ricardo Perez-Truglia</a>. 
+From August 2025 until January 2026 I will be visiting UCLA Anderson School of Management hosted by Prof. <a href="http://ricardotruglia.bol.ucla.edu">Ricardo Perez-Truglia</a>. 
 <br><br>
 
 
