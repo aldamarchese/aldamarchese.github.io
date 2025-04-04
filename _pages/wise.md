@@ -8,6 +8,6 @@ redirect_from:
 ---
 ## Workshop IdEP in Sustainabile Economics
 
-  I am co-organising a student-led workshop for young applied economists on March 11-13 2025 in Airolo (CH). [Ludovica Gazzé](https://sites.google.com/view/ludovicagazze) (Univeristy of Warwick) will join us as keynote speaker.
+In March 2025 I co-organised the first edition of WISE (Workshop IdEP in Sustainabile Economics), a three-day student-led workshop for junior researchers on applied economics. Ludovica Gazzé (University of Warwick) joined us as keynote speaker, together with junior researchers from all over Europe.
   
-  Check out our WISE 2025 [program](https://www.usi.ch/it/feeds/30071){:target="_blank"} and our [SNF grant](https://data.snf.ch/grants/grant/232488){:target="_blank"}!
+Check out our WISE 2025 [program](https://www.usi.ch/it/feeds/30071){:target="_blank"} and our [SNF grant](https://data.snf.ch/grants/grant/232488){:target="_blank"}!
