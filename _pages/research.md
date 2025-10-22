@@ -17,15 +17,14 @@ redirect_from:
   
  
 ## Work in Progress
-Regressive Gender Norms and Social Pressure NOT to Turn Out: Evidence From Switzerland  (with [Felix Schönenberger](https://sites.google.com/view/felix-schoenenberger/home?authuser=0)) <br/>
+Gender Norms, Social Pressure, and the Gender Gap in Turnout: Evidence from Swiss Elections  (with [Felix Schönenberger](https://sites.google.com/view/felix-schoenenberger/home?authuser=0)) <br/>
  <details>
   <summary>Click to view abstract</summary>
- We assemble an original dataset that matches historical post-electoral survey data in Switzerland with a fine-grained and direct measure for regressive gender norms of political participation: municipality-level "no" vote shares in the 1971 referendum, where Swiss men granted voting rights to Swiss women. We document a significant gender gap in turnout, which is larger in municipalities with more regressive gender norms but closes over time. To disentangle the effect of external social pressure from internalized social norms, we exploit the staggered introduction of postal voting in Swiss cantons as a natural experiment, which provides for the possibility to participate in elections while keeping the act of voting unobserved and thus escaping social sanctions. Using a triple-difference design that compares male and female voters in gender-progressive and gender-regressive municipalities before and after the introduction of postal voting, we isolate the impact of external social pressure on women to abstain from voting. Our results speak to an emergent literature on the causes and consequences of unequal participation, providing the first empirical test if social pressure can decrease voter turnout among politically marginalized groups.
+Turnout gaps may arise from hidden barriers rather than from differences in preferences, limiting the effective scope of universal suffrage. This study examines the role of gender norms and social pressure in shaping the gender gap in voter turnout in Switzerland. A triple-difference design exploits three sources of variation: the 1971 referendum on female suffrage to measure local norms, gendered differences in turnout, and the staggered introduction of postal voting between 1978 and 2005, which reduced the observability of voting. Before postal voting, women in municipalities with
+more regressive norms voted significantly less, producing a wider gender gap. This gap decreases by approximately 80% when voting becomes less observable, due to higher turnout among women and lower turnout among men in regressive areas. These findings demonstrate that turnout gaps are not merely preference-based but stem from external constraints, and that reducing observability through institutional reform can weaken social pressure, enhance representation, and strengthen universal suffrage.
   </details> <br/>
   
 Women and Mandatory Military Service 
 
-Self Confidence of Job Market Candidates in Economics: is there a gender gap and does the gender of the supervisor matter?  (with [Patricia Funk](https://sites.google.com/site/patriciafelicitasfunk/patricia-funks-research-webpage)) <br/>
-
-Gender Gaps and The Rise of The Service Economy: Evidence From Tourism Expansion in Italy (with [Giuseppe Di Giacomo](https://sites.google.com/view/giuseppedigiacomo/home) and [Giovanni Pica](https://sites.google.com/site/giovannipicashomepage/home)) - <small> **Awarded with the VisitINPS Fellowship 2024** <small>
+Gender Gaps and The Rise of The Service Economy: Evidence From Tourism Expansion in Italy (with Francesca Baronchelli, [Giuseppe Di Giacomo](https://sites.google.com/view/giuseppedigiacomo/home) and [Giovanni Pica](https://sites.google.com/site/giovannipicashomepage/home)) - <small> **Awarded with the VisitINPS Fellowship 2024** <small>
  
