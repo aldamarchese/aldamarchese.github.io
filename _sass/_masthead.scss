@@ -47,16 +47,9 @@
 }
 
 #dark-mode-toggle {
-  position: fixed;
-  top: 0.6em;
-  right: 1em;
-  background: none;
-  border: none;
   cursor: pointer;
-  font-size: 1.1em;
   color: #2d6a4f;
-  z-index: 1000;
-  padding: 0.3em 0.5em;
+  font-size: 1.1em;
 }
 
 .masthead__menu-item {
