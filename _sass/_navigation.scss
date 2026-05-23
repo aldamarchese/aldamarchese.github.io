@@ -202,6 +202,16 @@
     z-index: 100;
   }
 
+  #dark-mode-toggle {
+    position: static;
+    height: auto;
+    background: none;
+    color: #2d6a4f;
+    font-size: 1.1em;
+    padding: 0 0.25rem;
+    z-index: auto;
+  }
+
   .visible-links {
     display: table;
 

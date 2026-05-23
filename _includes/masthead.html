@@ -15,11 +15,13 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item">
+            <button id="dark-mode-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+              <i class="fas fa-moon"></i>
+            </button>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
-        <button id="dark-mode-toggle" aria-label="Toggle dark mode" title="Toggle dark mode" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 0.5em;color:#2d6a4f;vertical-align:middle;">
-          <i class="fas fa-moon"></i>
-        </button>
       </nav>
     </div>
   </div>
