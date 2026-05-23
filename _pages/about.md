@@ -18,8 +18,8 @@ I work on questions in <strong>gender economics</strong> with a particular focus
 <br><br><br>
 </div>
 
-<strong>CONTACT INFORMATION</strong><br>
-<div style="font-size: 0.85em;">
+<strong>CONTACT INFORMATION</strong>
+<div style="font-size: 0.85em; margin-top: 0.1em;">
 Università della Svizzera italiana <br>
 West Campus, Blue Building <br>
 Via Buffi 6, 6900 Lugano, Switzerland<br>
