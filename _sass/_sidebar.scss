@@ -88,8 +88,10 @@
   }
 
   img {
-    max-width: 100%; /* Ensures the image doesn't exceed the container width */
-    height: auto; /* Maintains the original aspect ratio */
+    max-width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center 65%;
     border-radius: 50%;
 
     @include breakpoint($large) {
