@@ -14,7 +14,7 @@ I am a PhD candidate in Economics at <a href="https://idep.usi.ch">Università d
 Before starting my PhD I was a pre-doc at <a href="https://genderlab.unibocconi.eu">AXA Research Lab on Gender Equality</a> under the supervision of Prof. <a href="https://sites.google.com/view/paola-profeta">Paola Profeta</a>. I hold a M.Sc. in European and International Public Policy from <a href="https://www.lse.ac.uk">the London School of Economics and Political Science</a> and a M.Sc. in Politics and Policy Analysis from <a href="https://www.unibocconi.it/en">Bocconi University</a>.
 <br><br>
 
-My research is in the field of gender economics, with a particular interest in political economy, labor economics, and economics of education.
+I work on questions in gender economics with a particular focus on political economy and labor economics.
 <br><br><br>
 </div>
 

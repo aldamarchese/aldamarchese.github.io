@@ -2,12 +2,37 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
+    // External links open in new tab
     document.querySelectorAll("a[href]").forEach(function(link) {
       var href = link.getAttribute("href");
       if (href && !href.startsWith("/") && !href.startsWith("#") && !href.startsWith("mailto:")) {
         link.setAttribute("target", "_blank");
         link.setAttribute("rel", "noopener noreferrer");
       }
+    });
+
+    // Dark mode toggle
+    var toggle = document.getElementById('dark-mode-toggle');
+    if (!toggle) return;
+    var icon = toggle.querySelector('i');
+    var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+
+    function updateIcon(dark) {
+      if (icon) icon.className = dark ? 'fas fa-sun' : 'fas fa-moon';
+    }
+
+    updateIcon(isDark);
+
+    toggle.addEventListener('click', function() {
+      isDark = !isDark;
+      if (isDark) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('darkMode', 'true');
+      } else {
+        document.documentElement.removeAttribute('data-theme');
+        localStorage.setItem('darkMode', 'false');
+      }
+      updateIcon(isDark);
     });
   });
 </script>
