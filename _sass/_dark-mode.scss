@@ -2,6 +2,16 @@
    DARK MODE
    ========================================================================== */
 
+::selection {
+  background: #a8d5c2;
+  color: #1a1a1a;
+}
+
+html[data-theme="dark"] ::selection {
+  background: #2d6a4f;
+  color: #f0f0f0;
+}
+
 html[data-theme="dark"] {
   body {
     background-color: #1e1e1e;
