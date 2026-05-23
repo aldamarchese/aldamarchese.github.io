@@ -1,43 +1,4 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
-
-<script>
-(function() {
-  // Dark mode: load saved preference (also set early in head.html)
-  var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-
-  function updateIcon(dark) {
-    var icon = document.querySelector('#dark-mode-toggle i');
-    if (icon) icon.className = dark ? 'fas fa-sun' : 'fas fa-moon';
-  }
-
-  updateIcon(isDark);
-
-  // Capture phase intercepts clicks before any other handler (incl. greedy-nav)
-  document.addEventListener('click', function(e) {
-    var target = e.target;
-
-    // Dark mode toggle
-    if (target && target.closest && target.closest('#dark-mode-toggle')) {
-      isDark = !isDark;
-      if (isDark) {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        localStorage.setItem('darkMode', 'true');
-      } else {
-        document.documentElement.removeAttribute('data-theme');
-        localStorage.setItem('darkMode', 'false');
-      }
-      updateIcon(isDark);
-      return;
-    }
-
-    // External links open in new tab
-    var link = target && target.closest ? target.closest('a[href]') : null;
-    if (link && link.hostname && link.hostname !== window.location.hostname) {
-      e.preventDefault();
-      window.open(link.href, '_blank', 'noopener,noreferrer');
-    }
-  }, true);
-})();
-</script>
+<script src="{{ base_path }}/assets/js/custom.js"></script>
 
 {% include analytics.html %}
