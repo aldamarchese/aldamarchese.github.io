@@ -2,10 +2,11 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    // External links open in new tab
+    // External links open in new tab (same-domain links stay in same tab)
     document.querySelectorAll("a[href]").forEach(function(link) {
       var href = link.getAttribute("href");
-      if (href && !href.startsWith("/") && !href.startsWith("#") && !href.startsWith("mailto:")) {
+      if (href && !href.startsWith("#") && !href.startsWith("mailto:") &&
+          link.hostname && link.hostname !== window.location.hostname) {
         link.setAttribute("target", "_blank");
         link.setAttribute("rel", "noopener noreferrer");
       }
