@@ -18,11 +18,11 @@ I work on questions in <strong>gender economics</strong> with a particular focus
 <br><br><br>
 </div>
 
-<strong>CONTACT INFORMATION</strong>
-<div style="font-size: 0.85em; margin-top: 0.1em;">
-Università della Svizzera italiana <br>
+<div style="line-height: 1.6;">
+<strong>CONTACT INFORMATION</strong><br>
+<span style="font-size: 0.85em;">Università della Svizzera italiana <br>
 West Campus, Blue Building <br>
 Via Buffi 6, 6900 Lugano, Switzerland<br>
-Mail: <a href="mailto:alda.marchese@usi.ch">alda.marchese@usi.ch</a>
+Mail: <a href="mailto:alda.marchese@usi.ch">alda.marchese@usi.ch</a></span>
 </div>
 

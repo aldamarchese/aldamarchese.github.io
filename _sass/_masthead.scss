@@ -47,9 +47,12 @@
 }
 
 #dark-mode-toggle {
+  display: block;
   cursor: pointer;
   color: #2d6a4f;
   font-size: 1.1em;
+  margin: 0 0.5rem;
+  padding: 0.5rem 0;
 }
 
 .masthead__menu-item {
