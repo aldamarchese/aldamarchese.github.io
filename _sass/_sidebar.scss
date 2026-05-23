@@ -90,8 +90,7 @@
   img {
     max-width: 100%; /* Ensures the image doesn't exceed the container width */
     height: auto; /* Maintains the original aspect ratio */
-    // Remove border-radius for a rectangular shape
-    // border-radius: 50%;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -127,6 +126,7 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+  color: #2d6a4f;
 }
 
 .sidebar .author__desktop {
