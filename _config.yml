@@ -24,8 +24,8 @@ author:
   avatar           : "AldaMarchese.jpg"
   name             : "Alda Marchese"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate<br>Università della Svizzera italiana"
-  location         : "Lugano, CH"
+  bio              : "PhD candidate<br>Università della Svizzera italiana<br>Lugano, Switzerland"
+  location         :
   employer         :
   uri              :
   email            : "alda.marchese@usi.ch"
