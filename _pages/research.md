@@ -36,7 +36,7 @@ This is the first large-scale study on gender differences in confidence among Ec
 
 **Gender Gaps and The Rise of The Service Economy: Evidence From Tourism Expansion in Italy**<br>
 With Francesca Baronchelli, [Giuseppe Di Giacomo](https://sites.google.com/view/giuseppedigiacomo/home) and [Giovanni Pica](https://sites.google.com/site/giovannipicashomepage/home)<br>
-*Awarded with the VisitINPS Fellowship 2024*
+*Awarded the VisitINPS Fellowship (2024)*
 <details>
 <summary>Click to view abstract</summary>
 Tourism, a rapidly expanding service sector, offers a unique laboratory for studying the distributional effects of shocks to service-sector demand. We exploit the expansion of international tourism in Italy between 2003 and 2019, combining matched employer-employee data from INPS with a shift-share instrument based on outbound tourist flows by country of origin, and find that tourism exposure has little average effect on cumulative earnings but generates substantial redistribution across groups. Among incumbent workers, women gain disproportionately - about three times as much as men - with gains extending to migrant women. Gains reflect both more years worked and higher annual earnings, are concentrated among baseline tourism workers, and spill over into adjacent sectors. Men are largely unaffected. Among new labor-market entrants, effects are small but span different sectors and again favor women.
