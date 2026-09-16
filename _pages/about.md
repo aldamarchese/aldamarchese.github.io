@@ -15,6 +15,9 @@ I hold a M.Sc. in European and International Public Policy from the London Schoo
 <br><br>
 
 I work on questions in <strong>gender economics</strong> with a particular focus on <strong>political economy</strong> and <strong>labor economics</strong>.
+<br><br>
+
+<span class="job-market">I will be on the 2026/2027 Job Market</span>
 <br><br><br>
 </div>
 
