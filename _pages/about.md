@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br>
 <div style="text-align: justify; font-size: 1em;">
 I am a PhD candidate in Economics at <a href="https://idep.usi.ch">Università della Svizzera italiana</a> under the supervision of Prof. <a href="https://sites.google.com/site/patriciafelicitasfunk/">Patricia Funk</a> and I am an external fellow at the <a href="https://genderlab.unibocconi.eu">AXA Research Lab on Gender Equality</a>. From August 2025 until January 2026, I visited UCLA Anderson School of Management hosted by Prof. <a href="https://ricardotruglia.com/">Ricardo Perez-Truglia</a>.
 <br>
