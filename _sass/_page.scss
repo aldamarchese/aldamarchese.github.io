@@ -412,3 +412,26 @@
   font-weight: bold;
   color: #2d6a4f;
 }
+
+/* References block on the front page: three columns, stacked on phones */
+.references {
+  line-height: 1.6;
+  margin-bottom: 3em;
+}
+
+.references__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5em;
+  margin-top: 0.3em;
+  font-size: 0.85em;
+
+  a[href^="mailto"] {
+    overflow-wrap: anywhere;
+  }
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+    gap: 1em;
+  }
+}
