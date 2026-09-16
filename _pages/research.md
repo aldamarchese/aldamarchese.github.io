@@ -46,5 +46,5 @@ Tourism, a rapidly expanding service sector, offers a unique laboratory for stud
 
 [**Le giovani donne**](https://iris.unibocconi.it/handle/11565/4061029)<br>
 With [Paola Profeta](https://sites.google.com/view/paola-profeta)<br>
-*In Istituto Giuseppe Toniolo, La condizione giovanile in Italia. Rapporto Giovani 2022, il Mulino (2022)*
+*Book chapter. Rapporto Giovani 2022, il Mulino (2022)*
 
