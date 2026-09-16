@@ -25,12 +25,6 @@ With [Paola Profeta](https://sites.google.com/view/paola-profeta) and [Giulia Sa
 The Covid-19 pandemic increased the salience of childcare and focused attention on the allocation of public funds for it. Focusing on Italy, one of the first countries severely impacted by the Covid-19 crisis, we analyze how male and female politicians responded to the Covid-19 pandemic in the allocation of funds to childcare. To assess causality, we analyze close mixed-gender races in Italian local elections in small municipalities without gender quotas from 2016 to 2023. Our findings show that pre Covid-19 female mayors spent more on childcare than male mayors. However, during the pandemic, the gender gap closed, as male mayors increased spending, a trend that continued in the post pandemic period.
 </details>
 
-## Other Publications
-
-[**Le giovani donne**](https://iris.unibocconi.it/handle/11565/4061029)<br>
-With [Paola Profeta](https://sites.google.com/view/paola-profeta)<br>
-*In Istituto Giuseppe Toniolo, La condizione giovanile in Italia. Rapporto Giovani 2022, il Mulino (2022)*
-
 ## Work in Progress
 
 **Confidence of Job Market Candidates: Is There a Gender Gap?**<br>
@@ -47,4 +41,10 @@ With Francesca Baronchelli, [Giuseppe Di Giacomo](https://sites.google.com/view/
 <summary>Click to view abstract</summary>
 Tourism, a rapidly expanding service sector, offers a unique laboratory for studying the distributional effects of shocks to service-sector demand. We exploit the expansion of international tourism in Italy between 2003 and 2019, combining matched employer-employee data from INPS with a shift-share instrument based on outbound tourist flows by country of origin, and find that tourism exposure has little average effect on cumulative earnings but generates substantial redistribution across groups. Among incumbent workers, women gain disproportionately - about three times as much as men - with gains extending to migrant women. Gains reflect both more years worked and higher annual earnings, are concentrated among baseline tourism workers, and spill over into adjacent sectors. Men are largely unaffected. Among new labor-market entrants, effects are small but span different sectors and again favor women.
 </details>
+
+## Other Publications
+
+[**Le giovani donne**](https://iris.unibocconi.it/handle/11565/4061029)<br>
+With [Paola Profeta](https://sites.google.com/view/paola-profeta)<br>
+*In Istituto Giuseppe Toniolo, La condizione giovanile in Italia. Rapporto Giovani 2022, il Mulino (2022)*
 
