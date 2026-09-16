@@ -1,7 +1,7 @@
 ---
 permalink: /wise/
 author_profile: true
-title: WISE 2025
+title: WISE
 redirect_from:
   - /wise
   - /wise.html
