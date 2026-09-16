@@ -45,11 +45,3 @@ Bocconi University<br>
 </div>
 </div>
 
-<div style="line-height: 1.6;">
-<strong>CONTACT INFORMATION</strong><br>
-<span style="font-size: 0.85em;">Università della Svizzera italiana <br>
-West Campus, Blue Building <br>
-Via Buffi 6, 6900 Lugano, Switzerland<br>
-Mail: <a href="mailto:alda.marchese@usi.ch">alda.marchese@usi.ch</a></span>
-</div>
-
