@@ -261,3 +261,10 @@
     }
   }
 }
+
+/* Let the sidebar email wrap after "@" when the column is narrow */
+.author__urls a[href^="mailto"] {
+  display: inline-flex;
+  align-items: baseline;
+  white-space: normal;
+}
