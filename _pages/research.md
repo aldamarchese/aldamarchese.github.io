@@ -27,7 +27,7 @@ The Covid-19 pandemic increased the salience of childcare and focused attention 
 
 ## Work in Progress
 
-**Confidence of Job Market Candidates: Is There a Gender Gap?**<br>
+**Confidence of Job Market Candidates: Is There a Gender Gap?** [Draft soon available]<br>
 With [Patricia Funk](https://sites.google.com/site/patriciafelicitasfunk/) and Raffaella Intinghero
 <details>
 <summary>Click to view abstract</summary>
