@@ -18,7 +18,7 @@ I work on questions in <strong>gender economics</strong> with a particular focus
 <br><br>
 
 <span class="job-market">I will be on the 2026/2027 Job Market.</span>
-<br><br><br>
+<br><br>
 </div>
 
 <div class="references">
