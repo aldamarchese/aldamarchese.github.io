@@ -12,4 +12,7 @@ In March 2025 I co-organised the first edition of WISE (Workshop IdEP in Sustain
   
 Check out WISE 2025 [program](https://www.usi.ch/it/feeds/30071){:target="_blank"} and our [SNF grant](https://data.snf.ch/grants/grant/232488){:target="_blank"}!
 
-The workshop continues: check out the [program](https://www.usi.ch/it/feeds/34874){:target="_blank"} of the new edition, WISE 2026!
+The workshop continues! Check out the programs of the following editions:
+
+<!-- To add a new edition, copy a line below and change the year and link. Newest first. -->
+- [WISE 2026](https://www.usi.ch/it/feeds/34874){:target="_blank"}
