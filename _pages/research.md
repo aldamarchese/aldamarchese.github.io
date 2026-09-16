@@ -25,13 +25,19 @@ With [Paola Profeta](https://sites.google.com/view/paola-profeta) and [Giulia Sa
 The Covid-19 pandemic increased the salience of childcare and focused attention on the allocation of public funds for it. Focusing on Italy, one of the first countries severely impacted by the Covid-19 crisis, we analyze how male and female politicians responded to the Covid-19 pandemic in the allocation of funds to childcare. To assess causality, we analyze close mixed-gender races in Italian local elections in small municipalities without gender quotas from 2016 to 2023. Our findings show that pre Covid-19 female mayors spent more on childcare than male mayors. However, during the pandemic, the gender gap closed, as male mayors increased spending, a trend that continued in the post pandemic period.
 </details>
 
+## Other Publications
+
+[**Le giovani donne**](https://iris.unibocconi.it/handle/11565/4061029)<br>
+With [Paola Profeta](https://sites.google.com/view/paola-profeta)<br>
+*In Istituto Giuseppe Toniolo, La condizione giovanile in Italia. Rapporto Giovani 2022, il Mulino (2022)*
+
 ## Work in Progress
 
 **Confidence of Job Market Candidates: Is There a Gender Gap?**<br>
 With [Patricia Funk](https://sites.google.com/site/patriciafelicitasfunk/) and Raffaella Intinghero
 <details>
 <summary>Click to view abstract</summary>
-This is the first large-scale study on gender differences in confidence among Economics job market candidates. We collected data from six job market seasons (2019/2020 – 2024/2025), based on the top 100 Economics departments according to QS World University Rankings. Where available, we downloaded CVs and job market papers. The basis for measuring confidence are the job market papers (JMPs hereafter) of the job market candidates. We apply text analysis to the JMPs. We apply two approaches: first, a Bag of Word model, where we count hedging and booster words, as well as the use of first-person pronouns, and second, a large language model (GPT-5), where we use different prompts to elicit scientific uncertainty. We document that there are significant gender differences in the way the job market papers are written: female job market papers are written in a less confident way than male job market papers. In a complementary experiment, we show that papers written in a less confident tone are perceived as being of significantly lower quality.
+This is the first large-scale study on gender differences in confidence among Economics job market candidates. We collected data from six job market seasons (2019/2020 – 2024/2025), based on the top100 Economics departments according to QS World University Rankings. Where available, we downloaded CV’s and job market papers. The basis for measuring confidence are the job market papers (JMPs hereafter) of the job market candidates. We apply text analysis to the JMPs. We apply two approaches: first, a Bag of Word model, where we count hedging and booster words, as well as the use of first-person pronouns, and second, a large language model (GPT-5), where we use different prompts to elicit scientific uncertainty. We document that there are significant gender differences in the way the job market papers are written: female job market papers are written in a less confident way than male job market papers. In a complementary experiment, we show that papers written in a less confident tone are perceived as being of significantly lower quality.
 </details>
 
 **Gender Gaps and The Rise of The Service Economy: Evidence From Tourism Expansion in Italy**<br>
