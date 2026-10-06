@@ -16,13 +16,7 @@ I work on questions in <strong>gender economics</strong> with a particular focus
 In my <strong>Job Market Paper</strong>, I show that conservative gender norms reduce women's turnout through external social pressure rather than internalized beliefs or voting costs. When voting becomes unobservable, the norm-induced gender turnout gap closes almost entirely, implying that conservative norms can sustain gender inequality in political participation even once formal barriers to voting have been removed.
 <br><br>
 
-From August 2025 until January 2026, I visited UCLA Anderson School of Management hosted by Prof. <a href="https://ricardotruglia.com/">Ricardo Perez-Truglia</a>.
-<br>
-
-In 2025, I co-organized the first edition of the Workshop IdEP in Sustainable Economics (WISE).
-<br>
-
-I hold a M.Sc. in European and International Public Policy from the London School of Economics and Political Science and a M.Sc. in Politics and Policy Analysis from Bocconi University.
+In Winter 2025, I co-organized the first edition of the Workshop IdEP in Sustainable Economics (WISE). From August 2025 until January 2026, I visited UCLA Anderson School of Management. I hold a M.Sc. in European and International Public Policy from the London School of Economics and Political Science and a M.Sc. in Politics and Policy Analysis from Bocconi University.
 <br><br>
 
 <span class="job-market">I will be on the 2026/2027 Job Market.</span>
