@@ -13,7 +13,7 @@ I am a PhD candidate in Economics at <a href="https://idep.usi.ch">Università d
 I work on questions in <strong>gender economics</strong> with a particular focus on <strong>political economy</strong> and <strong>labor economics</strong>.
 <br>
 
-In my Job Market Paper, I show that conservative gender norms reduce women's turnout through external social pressure rather than internalized beliefs or voting costs. When voting becomes unobservable, the norm-induced gender turnout gap closes almost entirely, implying that conservative norms can sustain gender inequality in political participation even once formal barriers to voting have been removed.
+In my <strong>Job Market Paper</strong>, I show that conservative gender norms reduce women's turnout through external social pressure rather than internalized beliefs or voting costs. When voting becomes unobservable, the norm-induced gender turnout gap closes almost entirely, implying that conservative norms can sustain gender inequality in political participation even once formal barriers to voting have been removed.
 <br><br>
 
 From August 2025 until January 2026, I visited UCLA Anderson School of Management hosted by Prof. <a href="https://ricardotruglia.com/">Ricardo Perez-Truglia</a>.
