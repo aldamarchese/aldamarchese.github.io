@@ -8,9 +8,12 @@ redirect_from:
 ---
 <div style="text-align: justify; font-size: 1em;">
 I am a PhD candidate in Economics at <a href="https://idep.usi.ch">Università della Svizzera italiana</a> in Lugano and I am an external fellow at the <a href="https://genderlab.unibocconi.eu">AXA Research Lab on Gender Equality</a>.
+<br><br>
+
+I work on questions in <strong>gender economics</strong> with a particular focus on <strong>political economy</strong> and <strong>labor economics</strong>.
 <br>
 
-I work on questions in <strong>gender economics</strong> with a particular focus on <strong>political economy</strong> and <strong>labor economics</strong>. In my Job Market Paper, I show how conservative social norms reduce female voting turnout through social pressure. Political participation inequalities, I find, persist even after formal barriers are removed.
+In my Job Market Paper, I show how conservative social norms reduce female voting turnout through social pressure. Political participation inequalities, I find, persist even after formal barriers are removed.
 <br><br>
 
 From August 2025 until January 2026, I visited UCLA Anderson School of Management hosted by Prof. <a href="https://ricardotruglia.com/">Ricardo Perez-Truglia</a>.
