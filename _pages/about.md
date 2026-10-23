@@ -11,12 +11,12 @@ I am a PhD candidate in Economics at <a href="https://idep.usi.ch">Università d
 <br><br>
 
 <span class="job-market">I am on the 2026/2027 Job Market. You can find my job market paper <a href="https://drive.google.com/file/d/1WX4mkovcd7JW__Gh--q4mSwBzFz0A1Tc/view">here</a>.</span>
-<br><br>
-
-I work on questions in <strong>gender economics</strong> with a particular focus on <strong>political economy</strong> and <strong>labor economics</strong>.
 <br>
 
-In my <strong>Job Market Paper</strong>, I show that conservative gender norms reduce women's turnout through external social pressure rather than internalized beliefs or voting costs. When voting becomes unobservable, the norm-induced gender turnout gap closes almost entirely, implying that conservative norms can sustain gender inequality in political participation even once formal barriers to voting have been removed.
+I work on questions in <strong>gender economics</strong> with a particular focus on <strong>political economy</strong> and <strong>labor economics</strong>.
+<br><br>
+
+In my <strong>job market paper</strong>, I show that conservative gender norms reduce women's turnout through external social pressure rather than internalized beliefs or voting costs. When voting becomes unobservable, the norm-induced gender turnout gap closes almost entirely, implying that conservative norms can sustain gender inequality in political participation even once formal barriers to voting have been removed.
 <br><br>
 
 In Winter 2025, I co-organized the first edition of the Workshop IdEP in Sustainable Economics (WISE). From August 2025 until January 2026, I visited UCLA Anderson School of Management. I hold a M.Sc. in European and International Public Policy from the London School of Economics and Political Science and a M.Sc. in Politics and Policy Analysis from Bocconi University.
