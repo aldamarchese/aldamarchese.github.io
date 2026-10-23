@@ -17,7 +17,7 @@ We provide evidence that conservative gender norms depress women's electoral par
 
 ## Working Paper
 
-[**Confidence of Job Market Candidates: Is There a Gender Gap?**](https://www.dropbox.com/scl/fi/4gtys7zgc2z6p6f167hkx/Marchese_Funk_Intinghero_confidence.pdf?rlkey=tcw9hmz1pmojpo91l139ujacq&dl=0)<br>
+[**Confidence of Job Market Candidates: Is there a Gender Gap?**](https://www.dropbox.com/scl/fi/4gtys7zgc2z6p6f167hkx/Marchese_Funk_Intinghero_confidence.pdf?rlkey=tcw9hmz1pmojpo91l139ujacq&dl=0)<br>
 With [Patricia Funk](https://sites.google.com/site/patriciafelicitasfunk/) and Raffaella Intinghero
 <details>
 <summary>Click to view abstract</summary>
