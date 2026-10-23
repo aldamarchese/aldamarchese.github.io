@@ -10,6 +10,9 @@ redirect_from:
 I am a PhD candidate in Economics at <a href="https://idep.usi.ch">Università della Svizzera italiana</a> in Lugano and I am an external fellow at the <a href="https://genderlab.unibocconi.eu">AXA Research Lab on Gender Equality</a>.
 <br><br>
 
+<span class="job-market">I will be on the 2026/2027 Job Market.</span> You can find my job market paper <a href="https://drive.google.com/file/d/1WX4mkovcd7JW__Gh--q4mSwBzFz0A1Tc/view">here</a>.
+<br><br>
+
 I work on questions in <strong>gender economics</strong> with a particular focus on <strong>political economy</strong> and <strong>labor economics</strong>.
 <br>
 
@@ -17,9 +20,6 @@ In my <strong>Job Market Paper</strong>, I show that conservative gender norms r
 <br><br>
 
 In Winter 2025, I co-organized the first edition of the Workshop IdEP in Sustainable Economics (WISE). From August 2025 until January 2026, I visited UCLA Anderson School of Management. I hold a M.Sc. in European and International Public Policy from the London School of Economics and Political Science and a M.Sc. in Politics and Policy Analysis from Bocconi University.
-<br><br>
-
-<span class="job-market">I will be on the 2026/2027 Job Market.</span>
 <br><br>
 </div>
 
