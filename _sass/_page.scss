@@ -413,6 +413,11 @@
   text-align: center;
   font-weight: bold;
   color: #2d6a4f;
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
 }
 
 /* References block on the front page: three columns, stacked on phones */

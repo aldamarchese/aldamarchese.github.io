@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD candidate in Economics at <a href="https://idep.usi.ch">Università della Svizzera italiana</a> in Lugano and I am an external fellow at the <a href="https://genderlab.unibocconi.eu">AXA Research Lab on Gender Equality</a>.
 <br><br>
 
-<span class="job-market">I will be on the 2026/2027 Job Market.</span> You can find my job market paper <a href="https://drive.google.com/file/d/1WX4mkovcd7JW__Gh--q4mSwBzFz0A1Tc/view">here</a>.
+<span class="job-market">I am on the 2026/2027 Job Market. You can find my job market paper <a href="https://drive.google.com/file/d/1WX4mkovcd7JW__Gh--q4mSwBzFz0A1Tc/view">here</a>.</span>
 <br><br>
 
 I work on questions in <strong>gender economics</strong> with a particular focus on <strong>political economy</strong> and <strong>labor economics</strong>.
