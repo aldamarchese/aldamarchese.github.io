@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Job Market Paper
 
-**Gender Norms, Social Pressure, and the Gender Gap in Turnout: Evidence from Swiss Elections** [Draft available soon]<br>
+[**Gender Norms, Social Pressure, and the Gender Gap in Turnout: Evidence from Swiss Elections**](https://drive.google.com/file/d/1WX4mkovcd7JW__Gh--q4mSwBzFz0A1Tc/view)<br>
 With [Felix Schönenberger](https://sites.google.com/view/felix-schoenenberger/home?authuser=0)
 <details>
 <summary>Click to view abstract</summary>
@@ -17,7 +17,7 @@ We provide evidence that conservative gender norms depress women's electoral par
 
 ## Working Paper
 
-**Confidence of Job Market Candidates: Is There a Gender Gap?** [Draft available soon]<br>
+[**Confidence of Job Market Candidates: Is There a Gender Gap?**](https://www.dropbox.com/scl/fi/4gtys7zgc2z6p6f167hkx/Marchese_Funk_Intinghero_confidence.pdf?rlkey=tcw9hmz1pmojpo91l139ujacq&dl=0)<br>
 With [Patricia Funk](https://sites.google.com/site/patriciafelicitasfunk/) and Raffaella Intinghero
 <details>
 <summary>Click to view abstract</summary>
