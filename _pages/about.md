@@ -40,7 +40,7 @@ UCLA Anderson School of Management<br>
 </div>
 <div>
 <a href="https://sites.google.com/view/paola-profeta">Paola Profeta</a><br>
-Professor of Public Economics<br>
+Professor of Economics<br>
 Bocconi University<br>
 <a href="mailto:paola.profeta@unibocconi.it">paola.profeta@<wbr>unibocconi.it</a>
 </div>
